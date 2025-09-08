@@ -4,9 +4,8 @@
 **Overview**
 This project delves deeper than traditional cricket analysis by utilizing **Tableau** to visually explore IPL (Indian Premier League) statistics. It uncovers key insights, patterns, and hidden stories across seasons—offering a fresh perspective on player, team, and match dynamics beyond just scores and wins.
 
-🔗 **[View on Tableau Public](#)** *(https://public.tableau.com/views/BeyondtheBoundaries_VisualizingIPLStatisticswithTableau_17573133071450/Seasonwiseteamperformance?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-)*
-
+- dashboard interaction <a href="dashboard</a>https://public.tableau.com/views/BeyondtheBoundaries_VisualizingIPLStatisticswithTableau_17573133071450/Seasonwiseteamperformance?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+">view 
 ---
 
 ###  Project Objective**
@@ -48,8 +47,8 @@ Combining these datasets enables both high-level summaries and granular insights
 
 Each dashboard is built to support both quick snapshots and deep exploratory analysis.
 
--dashboard interaction <a href="https://github.com/maheshyadavbattu/IPL-Insights-Visualization-Tableau/blob/main/Image-Visualizing.png">view dashboard</a>
----
+## dashboard
+![screenshot(495)](https://github.com/maheshyadavbattu/IPL-Insights-Visualization-Tableau/blob/main/Image-Visualizing.png)
 
 ### Conclusion**
 
