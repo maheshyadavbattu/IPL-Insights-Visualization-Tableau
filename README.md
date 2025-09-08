@@ -48,7 +48,7 @@ Combining these datasets enables both high-level summaries and granular insights
 
 Each dashboard is built to support both quick snapshots and deep exploratory analysis.
 
--dashboard interaction <ahttps://github.com/maheshyadavbattu/IPL-Insights-Visualization-Tableau/blob/main/Image-Visualizing.png>view dashboard</a>
+-dashboard interaction <a href="https://github.com/maheshyadavbattu/IPL-Insights-Visualization-Tableau/blob/main/Image-Visualizing.png">view dashboard</a>
 ---
 
 ### Conclusion**
